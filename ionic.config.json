@@ -1,5 +1,7 @@
 {
-  "name": "aulinhaApp",
-  "integrations": {},
+  "name": "blankApp",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
